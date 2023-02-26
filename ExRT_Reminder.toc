@@ -1,0 +1,8 @@
+## Interface: 100005
+## Title: Exorsus Raid Tools [Reminder]
+## Authors: ykiigor & standinginfire
+## Notes: Exorsus Raid Tools
+## Version: 2
+## RequiredDeps: MRT
+core.lua
+Reminder.lua
